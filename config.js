@@ -6,8 +6,8 @@ function convertToBool(text, fault = 'true') {
 
 
 module.exports = {
-SESSION_ID: 'crVXTZYR#bUpTiKRtcL3ZVMSbqesBl_bLkbJaSzyuK3YOPmU0Mkg',
-GITHUB_TOKEN: 'lNmhnQqAaKxpDtHLbGKrqDTgQQ43l61bvFoP',
+SESSION_ID: 'jBNw0D4C#AYBWfRyd4vba_cPK6ZhfA8hfsqfStBT5BX_q4yYUGxE',
+GITHUB_TOKEN: 'ubo6snPU21aoU6zsE4pI0E02bupDtD3t7Vtp',
 
 GITHUB_USER_NAME: 'maleeshalakshan',
 
